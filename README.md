@@ -1,5 +1,6 @@
 # cloudflare-ddns
 Script to update Cloudflare's Dynamic DNS api, just edit the values at the start of ```main.sh```.
+For best result create a A record at the root of the domain and set it to a basic value like Google's DNS ```8.8.8.8```.
 
 ## Install
 ```
