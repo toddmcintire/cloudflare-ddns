@@ -1,5 +1,5 @@
 # cloudflare-ddns
-Script to update Cloudflare's Dynamic DNS api.
+Script to update Cloudflare's Dynamic DNS api, just edit the values at the start of ```main.sh```.
 
 ## Install
 ```
